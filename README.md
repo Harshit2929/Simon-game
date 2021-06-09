@@ -1,3 +1,3 @@
 ## Simon-game
-The game can be accessed at https://harshit424.github.io/Simon-game/
+A memory game build using vanilla javascript
 Enjoy playing!!
